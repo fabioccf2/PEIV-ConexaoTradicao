@@ -3,7 +3,7 @@ Repositório da Prática Extensionista IV — UNOESC
 # Conexão & Tradição
 ### Aplicativo mobile para o resgate do carneamento comunitário no Sul do Brasil
 
-**Autores:** Ana Paula Hilgert Boff, Fábio Czechwoski Costa, Guilherme, Jonas Cervelin Minati
+**Autores:** Ana Paula Hilgert Boff, Fábio Czechwoski Costa, Guilherme Gonsalves dos Santos, Jonas Cervelin Minati
 
 **Curso:** Sistemas de Informação — UNOESC
 **Componente curricular:** Prática Extensionista IV
