@@ -87,11 +87,12 @@ O código-fonte do aplicativo Android está em:
 3. Colocar o arquivo `google-services.json` do projeto Firebase na pasta `app/`.
 4. Executar em um emulador ou aparelho com **Android 8.0 (API 26) ou superior**.
 
-## Integrantes
 
-| Nome |
-|---|
-| Ana Paula Hilgert Boff |
-| Fábio Czechwoski Costa |
-| Guilherme |
-| Jonas Cervelin Minati |
+## Integrantes do Grupo
+
+| Nome Completo | Matrícula |
+| :--- | :--- |
+| Ana Paula Hilgert Boff | 416645 |
+| Fábio Czechwoski Costa | 313315 |
+| Guilherme Gonsalves dos Santos | 465139 |
+| Jonas Cervelin Minati | 392262 |
